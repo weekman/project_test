@@ -1,2 +1,5 @@
 test line1
 line 2 added
+line3 and line 4
+added
+text
